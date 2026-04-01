@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @danielville2
-- 👀 I’m interested in Data Science projects to solve real world problems preferably in sectors such as automotive, renewable energies, real estate and finance.   
-- 🌱 I’m currently doing a Masters in Data Science & Deep Learning in Madrid.
-- 💞️ I’m looking to collaborate with a company doing an internship to put my knowledge to practice in a real world situation.
-- ⚡ Fun fact: I am Colombian but currently living in Madrid, I like to play tenis and running. 
+# Hi, I'm Daniel Villegas 👋
+
+Back-End Developer with a Master's in Data Science & Deep Learning, 
+transitioning into AI/ML engineering.
+I build production-grade web systems with Python and Django, and I'm 
+passionate about bringing AI into real-world backend applications.
+
+## 🔧 Tech Stack
+- **Back-End:** Python, Django, FastAPI, JavaScript, HTML, CSS
+- **AI/ML:** TensorFlow, Keras, Scikit-learn, Hugging Face Transformers, NLP
+- **Data:** PostgreSQL, SQL, Airflow, dbt, Informatica, Power BI
+- **DevOps:** Docker, Git, GitHub, CI/CD, Linux CLI
+- **AI Tools:** GitHub Copilot, Claude Code
+
+## 🚀 Currently
+- Working as Back-End Developer at **Axiacore**, maintaining and building 
+  10+ production web applications.
+- Applying my Master's in Data Science & Deep Learning to transition into 
+  AI-powered backend systems.
+
+## 🎯 Looking for
+Opportunities at the intersection of **backend engineering and AI/ML** — 
+building the infrastructure that makes intelligent applications work.
+
+## 🌍 About me
+Colombian based in Medellín 🇨🇴 | Tennis player & runner | 
+C2 English | Intermediate Portuguese
 
 <!---
 danielville2/danielville2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
